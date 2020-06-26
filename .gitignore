@@ -333,3 +333,5 @@ ASALocalRun/
 
 package/
 tools/
+.ionide/
+.vscode/
